@@ -1,5 +1,5 @@
 # Getting Started with Python
-
+1
 This baseline project shows how to get the most out of [Python](http://ipython.org)
 on Cloudera Data Science Workbench.
 
